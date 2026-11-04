@@ -1,4 +1,7 @@
 
+# Name : AL MAMUN, Batch-14, 01614071297, talkmamun@gmail.com 
+
+# Grade Calculator
 
 name = input("\n\nEnter student name: ")  
 

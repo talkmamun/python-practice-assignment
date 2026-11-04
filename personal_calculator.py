@@ -1,4 +1,6 @@
+# Name : AL MAMUN, Batch-14, 01614071297, talkmamun@gmail.com 
 
+# Personal Calculator
 
 name = input("\n\nEnter your name:")         
 age = int(input("Enter your age: "))         
